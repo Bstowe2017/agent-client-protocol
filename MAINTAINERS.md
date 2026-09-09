@@ -2,23 +2,23 @@
 
 The current maintainers for ACP are:
 
-**Last updated:** November 18, 2025
+**Last updated:** June 1, 2026
 
 ## Lead Maintainers
 
-| Name         | Email            | GitHub                       |
-| ------------ | ---------------- | ---------------------------- |
-| Ben Brandt   | benjamin@zed.dev | https://github.com/benbrandt |
-| Agus Zubiaga | agus@zed.dev     | https://github.com/agu-z     |
+| Name           | Email                        | GitHub                       |
+| -------------- | ---------------------------- | ---------------------------- |
+| Ben Brandt     | benjamin@zed.dev             | https://github.com/benbrandt |
+| Sergey Ignatov | sergey.ignatov@jetbrains.com | https://github.com/ignatov   |
 
 ## Core Maintainers
 
-| Name            | GitHub                          |
-| --------------- | ------------------------------- |
-| Richard Feldman | https://github.com/rtfeldman    |
-| Sergey Ignatov  | https://github.com/ignatov      |
-| Anna Zhdan      | https://github.com/anna239      |
-| Niko Matsakis   | https://github.com/nikomatsakis |
+| Name             | GitHub                           |
+| ---------------- | -------------------------------- |
+| Agus Zubiaga     | https://github.com/agu-z         |
+| Anna Zhdan       | https://github.com/anna239       |
+| Niko Matsakis    | https://github.com/nikomatsakis  |
+| Vadim Briliantov | https://github.com/Ololoshechkin |
 
 ## SDK Maintainers
 
@@ -39,11 +39,13 @@ The current maintainers for ACP are:
 
 ### Python SDK
 
-| Name          | GitHub                       |
-| ------------- | ---------------------------- |
-| Chojan Shang  | https://github.com/PsiACE    |
-| Richard Chien | https://github.com/stdrc     |
-| Frost Ming    | https://github.com/frostming |
+| Name           | GitHub                       |
+| -------------- | ---------------------------- |
+| Chojan Shang   | https://github.com/PsiACE    |
+| Richard Chien  | https://github.com/stdrc     |
+| Frost Ming     | https://github.com/frostming |
+| Clément Drouin | https://github.com/Nemtecl   |
+| Michel Thomazo | https://github.com/michelTho |
 
 ### Rust SDK
 
@@ -68,7 +70,12 @@ The current maintainers for ACP are:
 
 [Working Groups and Interest Groups](https://agentclientprotocol.com/community/working-interest-groups) are not required to have maintainers (they can be managed by informal facilitators), but maintainers may be appointed on an as-needed basis.
 
-_No current working or interest groups._
+### Transports
+
+| Name         | GitHub                         |
+| ------------ | ------------------------------ |
+| Anna Zhdan   | https://github.com/anna239     |
+| Alex Hancock | https://github.com/alexhancock |
 
 ---
 
